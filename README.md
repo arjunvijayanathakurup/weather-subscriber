@@ -13,6 +13,8 @@ npm run dev
 yarn dev
 ```
 
+The local server will be running by default on `localhost:3000` unless specified.
+
 For building the application:
 
 ```bash
